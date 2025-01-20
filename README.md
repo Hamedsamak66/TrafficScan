@@ -72,4 +72,4 @@ Contributions are welcome! If you'd like to improve this project, please fork th
 
 ## Contact
 
-For questions or support, feel free to reach out at your.samak.h@outlook.com.
+For questions or support, feel free to reach out at samak.h@outlook.com.
